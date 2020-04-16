@@ -1,0 +1,93 @@
+# COD 16
+DOMAIN-SUFFIX,demonware.net
+
+  # LOL TW download
+DOMAIN,loltw.qcloud.gpipe.garenanow.com
+DOMAIN,loltw.cdn.gpipe.garenanow.com
+DOMAIN,cdngarenanow-a.akamaihd.net
+DOMAIN,acs-garena.leagueoflegends.com
+DOMAIN,clubs.leagueoflegends.com
+DOMAIN,loadouts.tw.leagueoflegends.com
+DOMAIN,recofriender.leagueoflegends.com
+DOMAIN,tw.ledge.leagueoflegends.com
+DOMAIN,twledge.leagueoflegends.com
+DOMAIN,ekg.riotgames.com
+DOMAIN,garena.edge.rms.si.riotgames.com
+DOMAIN,playerpreferences.riotgames.com
+DOMAIN,tw1.chat.si.riotgames.com
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,garena.tw
+DOMAIN-SUFFIX,garenanow.com
+IP-CIDR,122.11.128.0/24
+
+# 暴雪战网下载 akamaihd CDN
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+
+# 暴雪战网下载 level3 CDN
+DOMAIN,level3.blizzard.com
+
+# sony playstation
+DOMAIN-SUFFIX,gs2.sonycoment.loris-e.llnwd.net
+DOMAIN-SUFFIX,dl.playstation.net
+
+# 跑车浪漫旅
+DOMAIN-SUFFIX,ps4.online.gran-turismo.com
+DOMAIN-SUFFIX,online.scee.com
+DOMAIN-SUFFIX,gtsport.api.wwsga.me
+
+#NoCdn
+DOMAIN-SUFFIX,gamesense.pub
+# 大名鼎鼎的 speedrun
+DOMAIN-SUFFIX,speedrun.com
+# 毛子网(黑号交易市场)服务器在 英国
+DOMAIN-KEYWORD,lolzteam
+# pokerstars有国家限制，建议使用 英国 节点
+DOMAIN-SUFFIX,pokerstars.com
+# AimWare服务器在 罗马尼亚
+DOMAIN-SUFFIX,aimware.net
+# skeet欧洲社区服在 法国
+DOMAIN,eu.gamesense.pub
+# asmfreakz服务器在 荷兰
+DOMAIN-SUFFIX,asmfreakz.com
+DOMAIN-SUFFIX,auxilium.cc
+DOMAIN-SUFFIX,textnow.com
+
+#Rockstar
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,a.rsg.sc
+
+# > CDN
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,cloudfront.net
+
+# > Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
+# > Nintendo
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.com
+
+# > Steam
+USER-AGENT,Steam*
+DOMAIN-SUFFIX,steamcommunity.com
+
+# > UBI
+DOMAIN-SUFFIX,cdn.ubi.com
+
+# > Rockstar
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,a.rsg.sc
+
+# > Activision Blizzard
+DOMAIN-SUFFIX,demonware.net
+
+
+# > Gran-turismo
+DOMAIN-SUFFIX,ps4.online.gran-turismo.com
+DOMAIN-SUFFIX,online.scee.com
+DOMAIN-SUFFIX,gtsport.api.wwsga.me
